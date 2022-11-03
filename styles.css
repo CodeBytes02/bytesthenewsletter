@@ -9,6 +9,9 @@
 	 background-size: cover;
 	 background-position: center;
 } */
+body{
+	text-align: justify;
+}
 h5{
 	color :rgb(0, 0, 0)
 }
